@@ -1,0 +1,14 @@
+.Card {
+    border: black 2px soild;
+    padding: 20px;
+    box-shadow: 5px;
+}
+
+.Card-info {
+    padding: 15px
+
+}
+
+.navBar {
+    padding: 12px;
+}
